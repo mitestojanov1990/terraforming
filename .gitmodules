@@ -1,0 +1,13 @@
+[submodule "modules/compute_virtualmachine"]
+	path = modules/compute_virtualmachine
+	url = https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine
+	branch = provider-fix
+[submodule "modules/network_vnet"]
+	path = modules/network_vnet
+	url = https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork
+[submodule "modules/network_nsg"]
+	path = modules/network_nsg
+	url = https://github.com/Azure/terraform-azurerm-avm-res-network-networksecuritygroup
+[submodule "modules/storage_account"]
+	path = modules/storage_account
+	url = https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount
